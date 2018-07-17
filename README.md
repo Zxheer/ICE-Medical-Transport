@@ -17,3 +17,16 @@ Java application that makes use of the MAP-ADT to find the closest hospital for 
   - Hospitals can add new hospitals and new disease-information
 
 # Screenshots
+
+- 
+
+![alt text](Screenshots/ICELogin.png "ICE Login")
+
+- 
+
+![alt text](Screenshots/ICEHospital3.png "ICE Hospital Query")
+![alt text](Screenshots/ICEHospital4.png "ICE Query Answer")
+
+- 
+
+![alt text](Screenshots/ICEDisease.png "ICE Disease")

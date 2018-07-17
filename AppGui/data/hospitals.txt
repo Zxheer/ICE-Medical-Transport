@@ -1,0 +1,68 @@
+0Fort Grey TB Hospital
+0Cecilia Makiwane Hospital
+0Nurture Aurora Rehabilitation Hospital
+0Life St George’s Hospital
+0Westways Private Hospital
+1Mediclinic Bloemfontein Hospital
+1Netcare Pelonomi Regional Hospital
+1Bongani Regional Hospital
+2Mediclinic Sandton
+2Netcare Park Lane Hospital
+2Netcare Rand Hospital
+2Netcare Rehabilitation Hospital
+2Netcare Rosebank Hospital
+2Eugene Marais Hospital
+2Faerie Glen Hospital
+2Jacaranda Hospital
+2Life Flora Hospital
+2Netcare Sandton Hospital
+3Addington Hospital
+3Crompton Private Hospital
+3Westville Private Hospital
+3Clairwood Hospital
+3Chatsmed Garden Private Hospital
+4Botlokwa Hospital
+4Curamed Thabazimbi Hospital
+4Dilokong Hospital
+4Donald Fraser
+5Delmas Hospital
+5Embhuleni Hospital
+5Ermelo Provincial Hospital
+6Kimberley Hospital
+6Mediclinic Kimberley
+6Mediclinic Kathu
+6Upington Medi-Clinic
+7Anncron Clinic
+7Klerksdorp Provincial Hospital
+7Sunningdale Private Hospital
+7Wilmed Private Hospital
+8Cape Eye Hospital
+8Christiaan Barnard Memorial Hospital
+8Mediclinic Cape Town
+8Eerste River Hospital
+8False Bay Hospital
+8Groote Schuur Hospital
+8GF Jooste Hospital
+8Karl Bremer Hospital
+8Khayelitsha Hospital
+8Kingsbury Hospital
+8Kuils River Private Hospital
+8Lentegeur Psychiatric Hospital
+8Maitland Cottage Home
+8Mediclinic Cape Gate
+8Oliver George Memorial Hospital
+8Red Cross War Memorial Children's Hospital
+8Rondebosch Medical Centre
+8Somerset Hospital
+8Southern Cross Hospital
+8Stikland Psychiatric Hospital
+8Theo-Lad Hospital
+8Tygerberg Hospital
+8Valkenberg Psychiatric Hospital
+8Victoria Hospital
+8Vincent Pallotti Hospital
+8Bellville Medical Centre
+8Blaauberg Netcare Hospital and Trauma unit
+8Brooklyn Chest Hospital
+8Cape Eye Hospital
+8Christiaan Barnard Memorial Hospital

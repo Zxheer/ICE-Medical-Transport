@@ -20,13 +20,13 @@ Java application that makes use of the MAP-ADT to find the closest hospital for 
 
 - 
 
-![alt text](Screenshots/ICELogin.png "ICE Login")
+![alt text](assets/ICELogin.png "ICE Login")
 
 - 
 
-![alt text](Screenshots/ICEHospital3.png "ICE Hospital Query")
-![alt text](Screenshots/ICEHospital4.png "ICE Query Answer")
+![alt text](assets/ICEHospital3.png "ICE Hospital Query")
+![alt text](assets/ICEHospital4.png "ICE Query Answer")
 
 - 
 
-![alt text](Screenshots/ICEDisease.png "ICE Disease")
+![alt text](assets/ICEDisease.png "ICE Disease")
